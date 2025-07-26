@@ -1,0 +1,8 @@
+# QueryPotter 기본설정
+
+database:     mariadb
+server-ip:    127.0.0.1
+server-port:  3306
+db-schema:    java_schema
+username:     scott
+password:     tiger
